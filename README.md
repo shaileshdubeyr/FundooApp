@@ -1,2 +1,1 @@
-# FundooAppUsingSpring
 # FundooApp
